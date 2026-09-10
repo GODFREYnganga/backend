@@ -1,0 +1,16 @@
+{
+  "name": "qrcode-generator",
+  "version": "1.0.0",
+  "description": "make qrcode from any link provided by users",
+  "license": "ISC",
+  "author": "Dev Godfrey",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^14.2.1",
+    "qr-image": "^3.2.0"
+  }
+}
