@@ -34,3 +34,6 @@ A practical repository documenting my journey learning backend development from 
 ├── index.js             # Express server & main entry point
 ├── package.json         # Project metadata & dependencies
 └── README.md            # Project documentation
+
+
+Co-authored-by: projectsgit6-boop <projectsgit6-boop@users.noreply.github.com>
