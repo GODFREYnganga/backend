@@ -36,4 +36,3 @@ A practical repository documenting my journey learning backend development from 
 └── README.md            # Project documentation
 
 
-Co-authored-by: projectsgit6-boop <projectsgit6-boop@users.noreply.github.com>
